@@ -6,7 +6,7 @@ CarTest.java verifies Cars's methods using JUnit.<br />
 
 ---- Compile & Run ----<br />
 
-**_cd_** to **_/PrimeGenerator_** and type **_ant -f build.xml_**.<br />
+**_cd_** to **_/Car_** and type **_ant -f build.xml_**.<br />
 
 ---- Prerequisite Steps & Environment Setup ----<br />
 
